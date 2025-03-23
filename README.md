@@ -2,7 +2,7 @@
 🚀 **Branding & UX Designer** | UI/UX | WordPress | CMS Development  
 
 ## 🔥 About Me  
-I am a passionate **Branding & UX Designer** with expertise in **UI/UX Design, WordPress Development, Branding, and Digital Marketing**. I love crafting seamless user experiences and helping brands stand out in the digital space.  
+I am a passionate **Branding & UX Designer** with expertise in **UI/UX Design, WordPress Development, Branding, and Social Media Design**. I love crafting seamless user experiences and helping brands stand out in the digital space.  
 
 ---
 
@@ -19,7 +19,8 @@ I am a passionate **Branding & UX Designer** with expertise in **UI/UX Design, W
 ## 🛠 **Tech & Skills**  
 ✔ UI/UX Design (Figma, Adobe XD)  
 ✔ WordPress Development  
-✔ Branding & Digital Marketing  
+✔ Branding
+✔ Social Media Design
 ✔ CMS Development  
 ✔ E-commerce Solutions  
 
