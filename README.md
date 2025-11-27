@@ -15,12 +15,14 @@
 </p>
 
   <!-- Quick links -->
+  
   <p>
     <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/" target="_blank">LinkedIn</a> •
     <a href="https://www.behance.net/hafijursajib" target="_blank">Portfolio</a> •
     <a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share" target="_blank">UpWork</a> •
     <a href="mailto:hrsajib.058@gmail.com">Email</a>
-  </p>
+  </p> 
+
 </div>
 
 ---
