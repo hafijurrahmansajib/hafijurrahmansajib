@@ -110,8 +110,6 @@
 </div>
 
 
-> _Tip: pin these repos to your profile for better visibility._
-
 ---
 
 <!-- STATS -->
