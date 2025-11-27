@@ -61,7 +61,7 @@
 - **[DOT-TEXTURE Architect — Portfolio](#)**  
   Responsive portfolio and project case studies for an architecture studio.
 
-- **[Print Point Khulna — E-commerce mock](#)**  
+- **[Quality Nutritions — E-commerce mock](#)**  
   Mock e-commerce flows and product page optimizations for apparel printing.
 
 > _Tip: pin these repos to your profile for better visibility._
@@ -72,10 +72,9 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Readme Stats (replace username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sajib's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafijurrahmansajib&show_icons=true&theme=radical" alt="Sajib's GitHub stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafijurrahmansajib&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
