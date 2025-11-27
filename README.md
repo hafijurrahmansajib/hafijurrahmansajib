@@ -1,30 +1,110 @@
-<h1 align="center">Hi 👋, I'm Hafijur Rahman Sajib</h1>
-<h3 align="center">A Passionate Branding & UI/UX Designer from Bangladesh</h3>
+<!--
+  GitHub Profile README
+  - Replace placeholders (NAME, BIO, links, project URLs) with your details.
+  - If you want different badges or stats styles, swap the image URLs later.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafijurrahmansajib&label=Profile%20views&color=0e75b6&style=flat" alt="hafijurrahmansajib" /> </p>
+<!-- HERO / HEADER -->
+<div align="center">
+  <h1 style="margin: 0.2rem 0">👋 Hi, I'm Sajib</h1>
+  <p style="margin: 4px 0 18px; font-size: 1.05rem;">
+    I'm a UI / UX & Graphic Designer — turning ideas into delightful interfaces and memorable brands.
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafijurrahmansajib" alt="hafijurrahmansajib" /></a> </p>
+  <!-- Badges -->
+  <p>
+    <img alt="Top Langs" src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-blue?style=flat&logo=figma" />
+    <img alt="Focus" src="https://img.shields.io/badge/Focus-Product%20Design%20%7C%20Branding-9cf?style=flat" />
+    <img alt="Location" src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-orange?style=flat&logo=map" />
+  </p>
 
-- 🔭 I’m currently working on **Branding & UI/UX Design**
+  <!-- Quick links -->
+  <p>
+    <a href="https://creativive.com" target="_blank">Website</a> •
+    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
+    <a href="https://www.behance.net/your-behance" target="_blank">Portfolio</a> •
+    <a href="mailto:your.email@example.com">Email</a>
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/hafijursajib](https://www.behance.net/hafijursajib)
+---
 
-- 💬 Ask me about **Branding, UI/UX, UX Research**
+<!-- WHAT I DO -->
+## ✨ What I do
+- Design simple, human-centered interfaces (web & mobile) using Figma / Adobe XD.
+- Build brand identities: logo systems, color palettes, and UI kits.
+- Create high-conversion landing pages & marketing assets.
+- Prototype interactions and hand off developer-ready design systems.
 
-- 📫 How to reach me **hrsajeeb.001@gmail.com**
+---
 
-- Completion of Google UX Design Specialization [https://coursera.org/share/186e6ec620883af1601fcd6328a9967c](https://coursera.org/share/186e6ec620883af1601fcd6328a9967c)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hafijursajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijursajib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafijur-rahman-sajib-861878248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur-rahman-sajib-861878248" height="30" width="40" /></a>
-<a href="https://fb.com/hr.sajib.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hr.sajib.11" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/hafijursajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/hafijursajib" height="30" width="40" /></a>
-<a href="https://www.behance.net/hafijursajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hafijursajib" height="30" width="40" /></a>
+<!-- TECH STACK / TOOLS -->
+## 🛠️ Tools & Technologies
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafijurrahmansajib&show_icons=true&locale=en" alt="hafijurrahmansajib" /></p>
+<!-- FEATURED PROJECTS -->
+## 🔭 Featured Projects
+> A quick snapshot of the projects that show my design language, process, and results.
+
+- **[Creativive — Agency Site](https://creativive.com)**  
+  Brand identity, UI system, and landing page for a creative digital agency.
+
+- **[DOT-TEXTURE Architect — Portfolio](#)**  
+  Responsive portfolio and project case studies for an architecture studio.
+
+- **[Print Point Khulna — E-commerce mock](#)**  
+  Mock e-commerce flows and product page optimizations for apparel printing.
+
+> _Tip: pin these repos to your profile for better visibility._
+
+---
+
+<!-- STATS -->
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <!-- GitHub Readme Stats (replace username) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sajib's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- WAKA TIME / LAST 7 DAYS (optional) -->
+<!-- Replace the URL with your WakaTime card if you use it -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username" alt="WakaTime" /></p> -->
+
+---
+
+<!-- CONTACT / SOCIALS -->
+## 📫 Contact
+- Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin">your-linkedin</a>  
+- Behance / Dribbble: <a href="https://www.behance.net/your-behance">Behance</a> • <a href="https://dribbble.com/your">Dribbble</a>
+
+---
+
+<!-- FUN / PERSONAL -->
+## ⚡ Fun fact
+I enjoy turning complex UX problems into simple, delightful flows — and I collect well-designed packaging when I travel.
+
+---
+
+<!-- FOOTER / CTA -->
+<div align="center">
+  <br />
+  <em>If you like my work, let's connect — I'm open to freelance & collaboration.</em>
+  <br /><br />
+  <sub>Made with ❤️ by <strong>Sajib (Hafijur Rahman Sajib)</strong></sub>
+</div>
