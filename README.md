@@ -86,7 +86,7 @@ I blend design clarity with storytelling to create meaningful human-centered pro
 <td width="50%" align="center">
 <a href="https://www.behance.net/gallery/194292793/Finvue-Responsive-Web-Application-Branding-and-UIUX" target="_blank">
 <div style="background: rgba(25,25,35,0.9); padding:18px; border-radius:18px; box-shadow:0 12px 25px rgba(0,0,0,0.35);">
-<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/main/Finvue.jpg" width="100%" style="border-radius:14px;"/>
+<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Finvue%20Dashboard%20Cover.png" width="100%" style="border-radius:14px;"/>
 <h3>FinVue | Financial Web Application</h3>
 <p>A modern finance dashboard with responsive UI & clean visual analytics.</p>
 </div>
@@ -109,7 +109,7 @@ I blend design clarity with storytelling to create meaningful human-centered pro
 <td width="50%" align="center">
 <a href="https://www.behance.net/gallery/166808707/Dessent-Brand-Identity-Design" target="_blank">
 <div style="background: rgba(20,45,35,0.9); padding:18px; border-radius:18px; box-shadow:0 12px 25px rgba(0,0,0,0.35);">
-<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/main/Dessent.jpg" width="100%" style="border-radius:14px;"/>
+<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Dessent%20Vertical%20Shop%20Sign%20Mockup.png" width="100%" style="border-radius:14px;"/>
 <h3>Dessent | Brand Identity</h3>
 <p>Premium brand identity with a full visual identity system.</p>
 </div>
@@ -119,7 +119,7 @@ I blend design clarity with storytelling to create meaningful human-centered pro
 <td width="50%" align="center">
 <a href="https://www.behance.net/gallery/166975205/Eudora-Brand-Guidelines" target="_blank">
 <div style="background: rgba(55,20,40,0.9); padding:18px; border-radius:18px; box-shadow:0 12px 25px rgba(0,0,0,0.35);">
-<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/main/Eudora.jpg" width="100%" style="border-radius:14px;"/>
+<img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Poster%20Mockup.jpg" width="100%" style="border-radius:14px;"/>
 <h3>Eudora | Brand Guideline System</h3>
 <p>Complete brand identity guideline structure with grid, color & typography rules.</p>
 </div>
