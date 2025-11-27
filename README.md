@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README
-  - Replace placeholders (NAME, BIO, links, project URLs) with your details.
-  - If you want different badges or stats styles, swap the image URLs later.
--->
-
 <!-- HERO / HEADER -->
 <div align="center">
   <h1 style="margin: 0.2rem 0">👋 Hi, I'm Hafijur Rahman Sajib</h1>
