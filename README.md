@@ -65,7 +65,7 @@
 <td width="50%" align="center">
   <a href="https://www.behance.net/gallery/194292793/Finvue-Responsive-Web-Application-Branding-and-UIUX" target="_blank">
     <div style="background: rgba(30,30,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
-      <img src="https://drive.google.com/file/d/16pwC5LYc6nPIDCRK6UlCZlSOtstrooUQ/view?usp=drive_link" width="100%" style="border-radius:14px;"/>
+      <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/27e51dbe787783ec4ea8b4f6e9c5bf63ae9fb284/Artboard%201.jpg" width="100%" style="border-radius:14px;"/>
       <h3> Finvue – Web App Branding & UI/UX</h3>
       <p>Responsive fintech dashboard with clean visuals, wireframes & full branding.</p>
     </div>
@@ -75,7 +75,7 @@
 <td width="50%" align="center">
   <a href="https://www.behance.net/gallery/193943583/SkillCraft-Education-App-UI-UX-Case-Study" target="_blank">
     <div style="background: rgba(50,20,80,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
-      <img src="https://via.placeholder.com/600x300/FF6BA5/FFFFFF?text=SkillCraft+App" width="100%" style="border-radius:14px;"/>
+      <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/27e51dbe787783ec4ea8b4f6e9c5bf63ae9fb284/Artboard%202.jpg" width="100%" style="border-radius:14px;"/>
       <h3> SkillCraft – Education App UI/UX</h3>
       <p>Modern e-learning interface with dashboard, interactive modules & progress tracking.</p>
     </div>
@@ -88,7 +88,7 @@
 <td width="50%" align="center">
   <a href="https://www.behance.net/gallery/166808707/Dessent-Brand-Identity-Design" target="_blank">
     <div style="background: rgba(20,50,30,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
-      <img src="https://via.placeholder.com/600x300/00C2FF/FFFFFF?text=Dessent+Brand+Identity" width="100%" style="border-radius:14px;"/>
+      <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/27e51dbe787783ec4ea8b4f6e9c5bf63ae9fb284/Artboard%203.jpg" width="100%" style="border-radius:14px;"/>
       <h3> Dessent – Premium Brand Identity</h3>
       <p>Luxury branding with logo, typography, color palette & visual system.</p>
     </div>
@@ -98,7 +98,7 @@
 <td width="50%" align="center">
   <a href="https://www.behance.net/gallery/166975205/Eudora-Brand-Guidelines" target="_blank">
     <div style="background: rgba(80,20,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
-      <img src="https://via.placeholder.com/600x300/FFB800/FFFFFF?text=Eudora+Guidelines" width="100%" style="border-radius:14px;"/>
+      <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/27e51dbe787783ec4ea8b4f6e9c5bf63ae9fb284/Artboard%204.jpg" width="100%" style="border-radius:14px;"/>
       <h3> Eudora – Brand Guideline System</h3>
       <p>Complete branding guidelines with grids, typography, logo rules & visual style.</p>
     </div>
