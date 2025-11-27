@@ -87,8 +87,8 @@
 
 <!-- CONTACT / SOCIALS -->
 ## 📫 Contact
-- Email: <a href="mailto:hrsajib.058@gmail.com">your.email@example.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">your-linkedin</a>  
+- Email: <a href="mailto:hrsajib.058@gmail.com">hrsajib.058@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">Hafijur Rahman Sajib</a>  
 - Behance / Dribbble: <a href="https://www.behance.net/hafijursajib">Behance</a> • <a href="https://dribbble.com/hafijursajib">Dribbble</a>
 
 ---
