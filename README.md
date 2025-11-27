@@ -73,11 +73,18 @@
 <!-- STATS -->
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafijurrahmansajib&show_icons=true&theme=radical" alt="Sajib's GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafijurrahmansajib&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+  <!-- Profile Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hafijurrahmansajib&show_icons=true&theme=tokyonight&border_radius=15" />
+
+  <!-- Streak Stats -->
+  <img height="170" src="https://streak-stats.demolab.com?user=hafijurrahmansajib&theme=tokyonight&border_radius=15" />
+
+  <!-- Top Languages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafijurrahmansajib&layout=compact&theme=tokyonight&border_radius=15" />
+
+</div>
 
 ---
 
