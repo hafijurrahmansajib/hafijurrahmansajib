@@ -89,6 +89,7 @@
 ## 📫 Contact
 - Email: <a href="mailto:hrsajib.058@gmail.com">hrsajib.058@gmail.com</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">Hafijur Rahman Sajib</a>  
+- UpWork: <a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share">Available On UpWork</a>  
 - Behance / Dribbble: <a href="https://www.behance.net/hafijursajib">Behance</a> • <a href="https://dribbble.com/hafijursajib">Dribbble</a>
 
 ---
