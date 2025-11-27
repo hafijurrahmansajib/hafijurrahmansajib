@@ -65,7 +65,7 @@
 <td width="50%" align="center">
   <a href="https://www.behance.net/gallery/194292793/Finvue-Responsive-Web-Application-Branding-and-UIUX" target="_blank">
     <div style="background: rgba(30,30,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
-      <img src="https://via.placeholder.com/600x300/5A4FFF/FFFFFF?text=Finvue+Web+App" width="100%" style="border-radius:14px;"/>
+      <img src="https://drive.google.com/file/d/16pwC5LYc6nPIDCRK6UlCZlSOtstrooUQ/view?usp=drive_link" width="100%" style="border-radius:14px;"/>
       <h3> Finvue – Web App Branding & UI/UX</h3>
       <p>Responsive fintech dashboard with clean visuals, wireframes & full branding.</p>
     </div>
@@ -130,7 +130,6 @@
 
 </div>
 
----
 
 <!-- WAKA TIME / LAST 7 DAYS (optional) -->
 <!-- Replace the URL with your WakaTime card if you use it -->
