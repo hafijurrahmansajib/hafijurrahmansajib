@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/" target="_blank">LinkedIn</a> •
     <a href="https://www.behance.net/hafijursajib" target="_blank">Portfolio</a> •
     <a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share" target="_blank">UpWork</a> •
-    <a href="hrsajib.058@gmail.com">Email</a>
+    <a href="mailto:hrsajib.058@gmail.com">Email</a>
   </p>
 </div>
 
@@ -87,9 +87,9 @@
 
 <!-- CONTACT / SOCIALS -->
 ## 📫 Contact
-- Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin">your-linkedin</a>  
-- Behance / Dribbble: <a href="https://www.behance.net/your-behance">Behance</a> • <a href="https://dribbble.com/your">Dribbble</a>
+- Email: <a href="mailto:hrsajib.058@gmail.com">your.email@example.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">your-linkedin</a>  
+- Behance / Dribbble: <a href="https://www.behance.net/hafijursajib">Behance</a> • <a href="https://dribbble.com/hafijursajib">Dribbble</a>
 
 ---
 
@@ -104,5 +104,5 @@ I enjoy turning complex UX problems into simple, delightful flows — and I coll
   <br />
   <em>If you like my work, let's connect — I'm open to freelance & collaboration.</em>
   <br /><br />
-  <sub>Made with ❤️ by <strong>Sajib (Hafijur Rahman Sajib)</strong></sub>
+  <sub>Made with ❤️ by <strong>Hafijur Rahman Sajib</strong></sub>
 </div>
