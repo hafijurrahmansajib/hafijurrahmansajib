@@ -66,8 +66,8 @@
   <a href="https://www.behance.net/gallery/194292793/Finvue-Responsive-Web-Application-Branding-and-UIUX" target="_blank">
     <div style="background: rgba(30,30,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
       <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Finvue%20Dashboard%20Cover.png" width="100%" style="border-radius:14px;"/>
-      <h3> Finvue – Web App Branding & UI/UX</h3>
-      <p>Responsive fintech dashboard with clean visuals, wireframes & full branding.</p>
+      <h3> Finvue Responsive Web Application </h3>
+      <p> FinVue is a revolutionary web app designed to redefine the way you manage your finances.</p>
     </div>
   </a>
 </td>
@@ -76,7 +76,7 @@
   <a href="https://www.behance.net/gallery/193943583/SkillCraft-Education-App-UI-UX-Case-Study" target="_blank">
     <div style="background: rgba(50,20,80,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
       <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Skillcraft.jpg" width="100%" style="border-radius:14px;"/>
-      <h3> SkillCraft – Education App UI/UX</h3>
+      <h3> SkillCraft E-Learning App </h3>
       <p>Modern e-learning interface with dashboard, interactive modules & progress tracking.</p>
     </div>
   </a>
@@ -89,7 +89,7 @@
   <a href="https://www.behance.net/gallery/166808707/Dessent-Brand-Identity-Design" target="_blank">
     <div style="background: rgba(20,50,30,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
       <img src="https://raw.githubusercontent.com/hafijurrahmansajib/hafijurrahmansajib/4db9d2e86616fc3b9f66e21d1f0bf2de6ae42630/Dessent%20Vertical%20Shop%20Sign%20Mockup.png" width="100%" style="border-radius:14px;"/>
-      <h3> Dessent – Premium Brand Identity</h3>
+      <h3> Dessent-Brand Identity Design </h3>
       <p>Luxury branding with logo, typography, color palette & visual system.</p>
     </div>
   </a>
