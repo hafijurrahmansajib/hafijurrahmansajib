@@ -54,10 +54,8 @@
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🔭 Featured Projects
+## 🔭 Featured Projects – Designer Showcase
 > A quick snapshot of the projects that show my design language, process, and results.
-
-## 🚀 Featured Projects – Designer Showcase
 
 <div align="center">
 
