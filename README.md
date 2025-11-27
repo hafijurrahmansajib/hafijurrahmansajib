@@ -57,14 +57,60 @@
 ## 🔭 Featured Projects
 > A quick snapshot of the projects that show my design language, process, and results.
 
-- **[Creativive — Agency Site](https://creativive.com)**  
-  Brand identity, UI system, and landing page for a creative digital agency.
+## 🚀 Featured Projects – Designer Showcase
 
-- **[DOT-TEXTURE Architect — Portfolio](#)**  
-  Responsive portfolio and project case studies for an architecture studio.
+<div align="center">
 
-- **[Quality Nutritions — E-commerce mock](#)**  
-  Mock e-commerce flows and product page optimizations for apparel printing.
+<!-- Row 1 -->
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://www.behance.net/gallery/194292793/Finvue-Responsive-Web-Application-Branding-and-UIUX" target="_blank">
+    <div style="background: rgba(30,30,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
+      <img src="https://via.placeholder.com/600x300/5A4FFF/FFFFFF?text=Finvue+Web+App" width="100%" style="border-radius:14px;"/>
+      <h3>🎨 Finvue – Web App Branding & UI/UX</h3>
+      <p>Responsive fintech dashboard with clean visuals, wireframes & full branding.</p>
+    </div>
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://www.behance.net/gallery/193943583/SkillCraft-Education-App-UI-UX-Case-Study" target="_blank">
+    <div style="background: rgba(50,20,80,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
+      <img src="https://via.placeholder.com/600x300/FF6BA5/FFFFFF?text=SkillCraft+App" width="100%" style="border-radius:14px;"/>
+      <h3>📊 SkillCraft – Education App UI/UX</h3>
+      <p>Modern e-learning interface with dashboard, interactive modules & progress tracking.</p>
+    </div>
+  </a>
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td width="50%" align="center">
+  <a href="https://www.behance.net/gallery/166808707/Dessent-Brand-Identity-Design" target="_blank">
+    <div style="background: rgba(20,50,30,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
+      <img src="https://via.placeholder.com/600x300/00C2FF/FFFFFF?text=Dessent+Brand+Identity" width="100%" style="border-radius:14px;"/>
+      <h3>💎 Dessent – Premium Brand Identity</h3>
+      <p>Luxury branding with logo, typography, color palette & visual system.</p>
+    </div>
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://www.behance.net/gallery/166975205/Eudora-Brand-Guidelines" target="_blank">
+    <div style="background: rgba(80,20,50,0.85); backdrop-filter: blur(12px); border-radius:20px; padding:15px; margin:10px; box-shadow:0 15px 30px rgba(0,0,0,0.5);">
+      <img src="https://via.placeholder.com/600x300/FFB800/FFFFFF?text=Eudora+Guidelines" width="100%" style="border-radius:14px;"/>
+      <h3>📘 Eudora – Brand Guideline System</h3>
+      <p>Complete branding guidelines with grids, typography, logo rules & visual style.</p>
+    </div>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 > _Tip: pin these repos to your profile for better visibility._
 
@@ -73,7 +119,7 @@
 <!-- STATS -->
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
+<div align="left">
 
   <!-- Profile Stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hafijurrahmansajib&show_icons=true&theme=tokyonight&border_radius=15" />
