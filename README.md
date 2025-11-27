@@ -12,11 +12,13 @@
   </p>
 
   <!-- Badges -->
-  <p>
-    <img alt="Top Langs" src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-blue?style=flat&logo=figma" />
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Product%20Design%20%7C%20Branding-9cf?style=flat" />
-    <img alt="Location" src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-orange?style=flat&logo=map" />
-  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/-UI%2FUX-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Branding-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prototyping-000000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireframing-000000?style=for-the-badge&logo=sketch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solver-000000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
   <!-- Quick links -->
   <p>
