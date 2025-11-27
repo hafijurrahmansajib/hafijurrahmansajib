@@ -6,9 +6,9 @@
 
 <!-- HERO / HEADER -->
 <div align="center">
-  <h1 style="margin: 0.2rem 0">👋 Hi, I'm Sajib</h1>
+  <h1 style="margin: 0.2rem 0">👋 Hi, I'm Hafijur Rahman Sajib</h1>
   <p style="margin: 4px 0 18px; font-size: 1.05rem;">
-    I'm a UI / UX & Graphic Designer — turning ideas into delightful interfaces and memorable brands.
+    A Passionate Branding & UI/UX Designer from Bangladesh — turning ideas into delightful interfaces and memorable brands.
   </p>
 
   <!-- Badges -->
@@ -20,10 +20,10 @@
 
   <!-- Quick links -->
   <p>
-    <a href="https://creativive.com" target="_blank">Website</a> •
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
-    <a href="https://www.behance.net/your-behance" target="_blank">Portfolio</a> •
-    <a href="mailto:your.email@example.com">Email</a>
+    <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/" target="_blank">LinkedIn</a> •
+    <a href="https://www.behance.net/hafijursajib" target="_blank">Portfolio</a> •
+    <a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share" target="_blank">UpWork</a> •
+    <a href="hrsajib.058@gmail.com">Email</a>
   </p>
 </div>
 
