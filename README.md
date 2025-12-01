@@ -115,7 +115,7 @@ Branding & UI/UX designer — crafting meaningful digital experiences, identity 
 - LinkedIn: **<a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">Profile</a>**
 - Behance: **<a href="https://www.behance.net/hafijursajib">Portfolio</a>**
 - Dribbble: **<a href="https://dribbble.com/hafijursajib">Shots</a>**
-- UpWork: **<a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share">Available For Hire</a>**
+- Upwork: **<a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share">Available For Hire</a>**
 
 
 ---
