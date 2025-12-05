@@ -122,5 +122,5 @@ Branding & UI/UX designer — crafting meaningful digital experiences, identity 
 
 <div align="center">
   <em>Let’s build something meaningful together.</em><br/><br/>
-  <sub>Designed with ❤️ by <strong>Sajib</strong></sub>
+  <sub> <strong>Inspire. Create. Innovate </strong></sub>
 </div>
