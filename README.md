@@ -11,7 +11,7 @@
 <h1 style="margin-top: 1rem; color:#111;">Hi, I'm <strong>Hafijur Rahman Sajib</strong></h1>
 
 <p style="max-width: 760px; font-size: 1.02rem; color:#333;">
-Branding & UI/UX designer — crafting meaningful digital experiences, identity systems, and product-driven visuals.
+Brand Identity & UI/UX designer <br> crafting meaningful digital experiences, identity systems, and product-driven visuals.
 </p>
 
 <!-- Quick Links -->
