@@ -16,7 +16,7 @@ Brand Identity & UI/UX designer <br> Crafting meaningful digital experiences, id
 
 <!-- Quick Links -->
 <p align="center" style="margin-top:18px;">
-  <a href="https://www.behance.net/hafijursajib" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.behance.net/sajibdesignhq" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://dribbble.com/hafijursajib" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/hafijursajib" target="_blank"><img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -113,7 +113,7 @@ Brand Identity & UI/UX designer <br> Crafting meaningful digital experiences, id
 ## 📫 Contact
 - Email: **<a href="mailto:hrsajib.058@gmail.com">hrsajib.058@gmail.com</a>**  
 - LinkedIn: **<a href="https://www.linkedin.com/in/hafijur-rahman-sajib-861878248/">Profile</a>**
-- Behance: **<a href="https://www.behance.net/hafijursajib">Portfolio</a>**
+- Behance: **<a href="https://www.behance.net/sajibdesignhq">Portfolio</a>**
 - Dribbble: **<a href="https://dribbble.com/hafijursajib">Shots</a>**
 - Upwork: **<a href="https://www.upwork.com/freelancers/~01f23d50dca0eb39c3?mp_source=share">Available For Hire</a>**
 
